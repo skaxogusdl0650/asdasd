@@ -15,6 +15,7 @@ st.write(
     * [Colab 노트북](https://colab.research.google.com/drive/14QXhTVyMeo9vE6rEk2Q8cmcybsMgtV4k?usp=sharing)
     * 사용한 데이터 (insurance.csv)
         * 출처 : https://www.kaggle.com/datasets/awaiskaggler/insurance-csv
+    * 실행 결과 : <https://qus0in-streamlit-example-01-linear-regressionapp-bnlrbe.streamlit.app/>
     """
 )
 
