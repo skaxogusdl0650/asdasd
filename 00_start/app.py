@@ -2,7 +2,7 @@ import streamlit as st
 
 # 이미지를 첨부하여 업로드하려면...
 from PIL import Image # 파이썬 기본라이브러리는 바로 사용 가능!
-image = Image.open('raccoon.jpeg') # 경로와 확장자 주의!
+image = Image.open('./raccoon.jpeg') # 경로와 확장자 주의!
 
 # 메소드를 실행하는 순서대로 화면에 그려집니다!
 st.image(image)
