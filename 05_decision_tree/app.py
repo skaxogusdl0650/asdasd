@@ -15,7 +15,7 @@ st.write(
     * [Colab 노트북](https://colab.research.google.com/drive/1QtzUzGmNxPJtUANkm7aQkD7j7WtdmqdE?usp=sharing)
     * 사용한 데이터 (salary.csv)
         * 출처 : https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
-    * 실행 결과 : <https://qus0in-streamlit-example-04-naive-bayesapp-z50aqp.streamlit.app/>
+    * 실행 결과 : <https://qus0in-streamlit-example-05-decision-treeapp-g6z906.streamlit.app/>
     """
 )
 
