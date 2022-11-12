@@ -27,5 +27,6 @@ st.write(
     ## 사용법
     * 제공한 다른 예시들을 편집하고 각자 github에 올려보면서 익혀보세요
     * 추가적으로 넣고 싶은 라이브러리는 `requirements.txt`에 넣어줘야 작동합니다
+    * 실행 결과 : <https://qus0in-streamlit-example-00-startapp-dmtm98.streamlit.app/>
     """
 )
