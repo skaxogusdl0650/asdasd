@@ -15,7 +15,7 @@ st.write(
     * [Colab 노트북](https://colab.research.google.com/drive/1NCFy0W8pCcdHCOPZ-AKj09XA2w5c7SGw?usp=sharing)
     * 사용한 데이터 (spam.csv)
         * 출처 : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
-    * 실행 결과 : <https://qus0in-streamlit-example-03-knnapp-9lgbwh.streamlit.app/>
+    * 실행 결과 : <https://qus0in-streamlit-example-04-naive-bayesapp-z50aqp.streamlit.app/>
     """
 )
 

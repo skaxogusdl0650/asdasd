@@ -15,7 +15,7 @@ st.write(
     * [Colab 노트북](https://colab.research.google.com/drive/18a3yRy6MMieiUj3EszhFlVehdeqymH-Y?usp=sharing)
     * 사용한 데이터 (titanic.csv)
         * 출처 : https://www.kaggle.com/competitions/titanic
-    * 실행 결과 : <https://qus0in-streamlit-example-01-linear-regressionapp-bnlrbe.streamlit.app/>
+    * 실행 결과 : <https://qus0in-streamlit-example-02-logistic-regressionapp-x3seg0.streamlit.app/>
     """
 )
 

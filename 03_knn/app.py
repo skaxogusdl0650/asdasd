@@ -15,7 +15,7 @@ st.write(
     * [Colab 노트북](https://colab.research.google.com/drive/1p5AZ6-a_W8Hmuxd0qtv2s-LQGHNlLn1J?usp=sharing)
     * 사용한 데이터 (wine.csv)
         * 출처 : https://www.kaggle.com/datasets/akhil0007/wine-data
-    * 실행 결과 : <https://qus0in-streamlit-example-02-logistic-regressionapp-x3seg0.streamlit.app/>
+    * 실행 결과 : <https://qus0in-streamlit-example-03-knnapp-9lgbwh.streamlit.app/>
     """
 )
 
@@ -81,6 +81,6 @@ with st.echo(code_location="below"):
         pred = model.predict(scaler.transform(input_values))
         st.success("정상적으로 분석되었습니다!")
         st.write("## 분류")
-        st.write(pred[0])
+        st.write(f"{pred[0]}등급")
 
 

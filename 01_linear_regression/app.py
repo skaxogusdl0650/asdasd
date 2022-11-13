@@ -35,6 +35,8 @@ with st.echo(code_location="below"):
     st.write("## 선형 회귀 모델")
     st.write(pd.Series(model.coef_, index=["age", "bmi", "children", "smoker", "sex_male", "region_northwest", "region_northeast", "region_southwest"]))
 
+st.write("---")
+
 # 입력값을 변수로 받아서 사용 가능!
 
 with st.echo(code_location="below"):
